@@ -109,7 +109,7 @@
     "request": "~2.53.0",
     "rev-del": "^1.0.5",
     "rx": "^4.0.0",
-    "sanitize-html": "~1.6.1",
+    "sanitize-html": "~2.3.2",
     "sort-keys": "^1.1.1",
     "source-map-support": "^0.3.2",
     "store": "https://github.com/berkeleytrue/store.js.git#feature/noop-server",
