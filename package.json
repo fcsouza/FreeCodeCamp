@@ -62,7 +62,7 @@
     "gulp-less": "^3.0.3",
     "gulp-minify-css": "~0.5.1",
     "gulp-nodemon": "^2.0.3",
-    "gulp-notify": "^2.2.0",
+    "gulp-notify": "^3.0.0",
     "gulp-plumber": "^1.0.1",
     "gulp-reduce-file": "0.0.1",
     "gulp-rev": "^6.0.1",
