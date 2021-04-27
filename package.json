@@ -49,7 +49,7 @@
     "express-flash": "~0.0.2",
     "express-session": "~1.9.2",
     "express-state": "^1.2.0",
-    "express-validator": "~2.8.0",
+    "express-validator": "~6.5.0",
     "fetchr": "^0.5.12",
     "font-awesome": "~4.3.0",
     "forever": "~0.14.1",
@@ -118,7 +118,7 @@
     "twit": "~1.1.20",
     "uglify-js": "~2.4.15",
     "url-regex": "^3.0.0",
-    "validator": "^3.22.1",
+    "validator": "^13.6.0",
     "webpack": "^1.9.12",
     "xss-filters": "^1.2.6",
     "yui": "~3.18.1"
