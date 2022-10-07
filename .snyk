@@ -1,0 +1,41 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.25.0
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  'npm:hawk:20160119':
+    - yui > request > hawk:
+        patched: '2022-10-07T17:01:40.742Z'
+  'npm:http-signature:20150122':
+    - yui > request > http-signature:
+        patched: '2022-10-07T17:01:40.742Z'
+  'npm:lodash:20180130':
+    - babel-core > babel-plugin-proto-to-assign > lodash:
+        patched: '2022-10-07T17:01:40.742Z'
+    - thundercats > stampit > lodash:
+        patched: '2022-10-07T17:01:40.742Z'
+    - babel > babel-core > babel-plugin-proto-to-assign > lodash:
+        patched: '2022-10-07T17:01:40.742Z'
+    - babel-eslint > babel-core > babel-plugin-proto-to-assign > lodash:
+        patched: '2022-10-07T17:01:40.742Z'
+    - babel-loader > babel-core > babel-plugin-proto-to-assign > lodash:
+        patched: '2022-10-07T17:01:40.742Z'
+  'npm:mime:20170907':
+    - yui > request > form-data > mime:
+        patched: '2022-10-07T17:01:40.742Z'
+  'npm:minimatch:20160620':
+    - gulp > vinyl-fs > glob-stream > minimatch:
+        patched: '2022-10-07T17:01:40.742Z'
+    - gulp > vinyl-fs > glob-watcher > gaze > globule > minimatch:
+        patched: '2022-10-07T17:01:40.742Z'
+    - gulp > vinyl-fs > glob-watcher > gaze > globule > glob > minimatch:
+        patched: '2022-10-07T17:01:40.742Z'
+  'npm:request:20160119':
+    - yui > request:
+        patched: '2022-10-07T17:01:40.742Z'
+  'npm:tunnel-agent:20170305':
+    - yui > request > tunnel-agent:
+        patched: '2022-10-07T17:01:40.742Z'
+  'npm:uglify-js:20151024':
+    - jade > transformers > uglify-js:
+        patched: '2022-10-07T17:01:40.742Z'
