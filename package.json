@@ -55,7 +55,7 @@
     "forever": "~0.14.1",
     "frameguard": "^0.2.2",
     "github-api": "~0.7.0",
-    "gulp": "~3.8.8",
+    "gulp": "~5.0.0",
     "gulp-eslint": "~0.9.0",
     "gulp-inject": "~1.0.2",
     "gulp-jsonlint": "^1.1.0",
