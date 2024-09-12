@@ -45,7 +45,7 @@
     "es6-map": "^0.1.1",
     "eslint": "^1.1.0",
     "eslint-plugin-react": "^3.2.1",
-    "express": "~4.10.4",
+    "express": "~4.21.0",
     "express-flash": "~0.0.2",
     "express-session": "~1.9.2",
     "express-state": "^1.2.0",
